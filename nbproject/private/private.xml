@@ -4,9 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/HomeFrame.java</file>
+            <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/PlanosDeSaudePainel.java</file>
             <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/testes/TesteDAO.java</file>
             <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ClinicaApp.java</file>
             <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/dao/PlanoDeSaudeDAO.java</file>
+            <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/PlanosDeSaudeDialog.java</file>
             <file>file:/C:/Users/22282091/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/model/PlanoDeSaude.java</file>
         </group>
     </open-files>
